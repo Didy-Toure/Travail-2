@@ -100,11 +100,9 @@ color: #222c2a;
 /*j'ai utilise le "linear-gradient" car ca sera plus facile de lire le texte*/
 .contenu {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(./img/pexels-pixabay-267569.jpg);
-    background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     height: 500px;
-    margin: 0 auto;
     width: 100%;
     display: flex;
     justify-content: center;
